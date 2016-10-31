@@ -1,3 +1,7 @@
+Environment:
+XCode 7.3.1
+
+
 Coverage report for tests run via xcodebuild CLI do not include the coverage from UI tests. Tests run from XCode IDE however do include the coverage from UI Tests
 
 #### Running the the tests from XCode IDE (This is the Expected Behavior)
