@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         print("Reached via unit test")
     }
     
-    @IBAction func testAction(sender: AnyObject) {
+    @IBAction func testAction(_ sender: AnyObject) {
         testedViaUITest()
     }
     
