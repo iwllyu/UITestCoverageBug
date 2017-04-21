@@ -6,6 +6,7 @@ Still bugged in:
 * XCode 7.3.1
 * XCode 8.1 with Swift 3 (thanks [raven](https://github.com/iwllyu/UITestCoverageBug/issues/2))
 * Xcode 8.2 with Swift 3
+* Xcode 8.3.2 ([michaellady](https://github.com/nakiostudio/xcov/issues/22#issuecomment-295951863))
 
 
 Coverage report for tests run via xcodebuild CLI do not include the coverage from UI tests. Tests run from XCode IDE however do include the coverage from UI Tests
