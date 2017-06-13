@@ -1,3 +1,5 @@
+# Looks like this bug is fixed in XCode9. Thanks [coryalder](https://github.com/iwllyu/UITestCoverageBug/issues/4)
+
 ## Test case for missing UI Test Coverage. The problem/potential solution is detailed [here](https://github.com/nakiostudio/xcov/issues/22#issuecomment-232014641) by thelvis4.
 
 [Open Radar](https://openradar.appspot.com/29033348)
